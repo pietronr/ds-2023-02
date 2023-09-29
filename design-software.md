@@ -3,7 +3,7 @@ R: O Design de Software é um processo e resultado, de extrema importância, que
 
 Quais são as atividades necessárias para projetar um software?
 R: De acordo com a ISO/IEC/IEE 24765:2017, as atividades necessárias são:
-- Preparar para a definição do projeto do sistema de software;
+-- Preparar para a definição do projeto do sistema de software;
 - Estabelecer projetos (design) relacionados a cada elemento do sistema de software;
 - Avaliar alternativas para obtenção dos elementos do sistema de software;
 - Gerenciar o projeto.
